@@ -23,7 +23,8 @@ This project requires the following Python libraries:
 - Seaborn
 - Matplotlib
 - scikit-learn
-- 
+- Streamlit
+
 ## Model Inference
 
 The trained model can be used to make predictions on new data, offering a tool for bank marketing teams to strategize more effectively.
